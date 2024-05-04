@@ -1,0 +1,14 @@
+C:\Users\trist\Development\peanuts\woodstock\bin\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.exe
+C:\Users\trist\Development\peanuts\woodstock\bin\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.deps.json
+C:\Users\trist\Development\peanuts\woodstock\bin\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.runtimeconfig.json
+C:\Users\trist\Development\peanuts\woodstock\bin\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.dll
+C:\Users\trist\Development\peanuts\woodstock\bin\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.pdb
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.AssemblyInfo.cs
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.dll
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\refint\Peanuts.Woodstock.ConsoleApp.dll
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.pdb
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\Peanuts.Woodstock.ConsoleApp.genruntimeconfig.cache
+C:\Users\trist\Development\peanuts\woodstock\obj\Peanuts.Woodstock.ConsoleApp\Debug\net8.0\ref\Peanuts.Woodstock.ConsoleApp.dll

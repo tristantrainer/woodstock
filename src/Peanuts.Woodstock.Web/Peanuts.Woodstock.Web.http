@@ -1,0 +1,6 @@
+@Peanuts.Woodstock.Web_HostAddress = http://localhost:5172
+
+GET {{Peanuts.Woodstock.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
