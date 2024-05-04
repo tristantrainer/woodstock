@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/Peanuts.Woodstock.ConsoleApp/Peanuts.Woodstock.ConsoleApp.csproj",
+                "${workspaceFolder}/src/Peanuts.Woodstock.Web/Peanuts.Woodstock.Web.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],

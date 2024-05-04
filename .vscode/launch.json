@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Peanuts.Woodstock.ConsoleApp/Debug/net8.0/Peanuts.Woodstock.ConsoleApp.dll",
+            "program": "${workspaceFolder}/bin/Peanuts.Woodstock.Web/Debug/net8.0/Peanuts.Woodstock.Web.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/src/Peanuts.Woodstock.ConsoleApp",
+            "cwd": "${workspaceFolder}/src/Peanuts.Woodstock.Web",
             "console": "internalConsole",
             "stopAtEntry": false
         },
